@@ -1,0 +1,11 @@
+n = 10
+t= 0.273 for clocking the processing time
+
+n = 100
+t= 1.29 for clocking the processing time
+
+n = 1000
+t= 1.412 for clocking the processing time
+
+n = 10000
+t= 3.639 for clocking the processing time
